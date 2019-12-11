@@ -25,5 +25,11 @@ npm run test
 npm run lint
 ```
 
+### login 
+```
+zhaohai
+zhaohai123
+```
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
